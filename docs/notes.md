@@ -12,7 +12,6 @@ Casco
 -----
 
 
-
 Mainboard and Screen
 --------------------
 - Raspberry Pi4 8Gb
@@ -63,13 +62,9 @@ When flashed you can test the switches after removal en reinserting the keyboard
 To test the keyboard use the keyboard tester of config.qmk.fm and compare it with the layout. It is simpler you print the layout in one browser and open the tester in another browser.
 One by one you short the switch to see the correct key lights up.
 
-
-
 Note:
 * THIS ONLY FOR TESTING THE KEYBOARD TO SEND IT BACK IN CASE OF PROBLEMS !!! *
 You need to reflash it afterwards with the default jj50 or your custom firmware.
-
-
 
 #### LEDs
 
@@ -77,3 +72,9 @@ The leds underneat will turn on when flashed.
 
 In bootloader mode all leds flashes. So you can test them one-by-one.
 The leds underneat are turned off in bootloader mode.
+
+Power on and off
+----------------
+
+References:
+- https://www.embeddedcomputing.com/technology/open-source/development-kits/raspberry-pi-power-up-and-shutdown-with-a-physical-button
