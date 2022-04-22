@@ -1,6 +1,14 @@
 Introduction
 ============
 
+USB cable loose:
+
+![Keyboard](./images/keyboard-1.jpg)
+
+USB cable tucked away:
+
+![Keyboard](./images/keyboard-1.jpg)
+
 The cyberdeck keyboard has:
 - JJ50 keyboard backplate
 - 59 Cherry green mechanical switches
