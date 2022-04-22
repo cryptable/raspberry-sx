@@ -7,7 +7,7 @@ USB cable loose:
 
 USB cable tucked away:
 
-![Keyboard](./images/keyboard-1.jpg)
+![Keyboard](./images/keyboard-2.jpg)
 
 The cyberdeck keyboard has:
 - JJ50 keyboard backplate
