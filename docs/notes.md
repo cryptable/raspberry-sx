@@ -78,3 +78,18 @@ Power on and off
 
 References:
 - https://www.embeddedcomputing.com/technology/open-source/development-kits/raspberry-pi-power-up-and-shutdown-with-a-physical-button
+
+
+Lid of Cyberdesk with locks
+---------------------------
+
+ref:
+https://www.thingiverse.com/thing:4094861
+
+https://www.thingiverse.com/thing:5222235
+
+
+Mouse case lid idea
+-------------------
+
+https://www.thingiverse.com/thing:2609754
