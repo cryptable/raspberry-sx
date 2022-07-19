@@ -2,3 +2,6 @@
 **/*.gcode
 .DS_Store
 **/*-backups
+**/*.gbr*
+**/*.drl
+*.zip
