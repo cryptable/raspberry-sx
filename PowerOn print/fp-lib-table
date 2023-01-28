@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "TestUSB5")(type "KiCad")(uri "file:///home/david/workspace/cyber-deck/PowerOn%20print/USB4140-GF-0230-C_REV0.4/GCT_USB4140-GF-0230-C_REV0.4.kicad_mod")(options "")(descr ""))
+)
