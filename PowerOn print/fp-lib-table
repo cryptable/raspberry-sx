@@ -1,3 +1,4 @@
 (fp_lib_table
-  (lib (name "TestUSB5")(type "KiCad")(uri "file:///home/david/workspace/cyber-deck/PowerOn%20print/USB4140-GF-0230-C_REV0.4/GCT_USB4140-GF-0230-C_REV0.4.kicad_mod")(options "")(descr ""))
+  (lib (name "USB4140-GF-0230-C_REV0")(type "KiCad")(uri "${KIPRJMOD}/USB4140-GF-0230-C_REV0.4")(options "")(descr ""))
+  (lib (name "footprints")(type "KiCad")(uri "${KIPRJMOD}/ul_DMP3028LSD-13/KiCAD/2023-01-28_23-14-05/footprints.pretty")(options "")(descr ""))
 )
