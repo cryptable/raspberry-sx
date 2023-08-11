@@ -33,6 +33,53 @@ This is a kind of todo:
 2) Keyboard-plate: extract parts on the side to show more of the bottom leds
 3) bottom case and keyboard plate: minimize the height (keyboard plate is at 20 mm height from the table)
 
+Building:
+---------
+
+### Compiling
+
+references:
+- https://beta.docs.qmk.fm/tutorial/newbs_getting_started
+
+### flashing
+
+```
+sudo bootloadHID Downloads/jj50_test_jj50.hex
+```
+
+BootloadHID flashing jj50
+- https://beta.docs.qmk.fm/using-qmk/guides/flashing/flashing_bootloadhid
+
+references:
+- https://beta.docs.qmk.fm/using-qmk/guides/flashing/flashing_bootloadhid
+
+
+### Testing
+
+#### Switches
+
+The MO (7, 4, 5) switches don't show up in the qmk configurator and tester. So to test the switches we will allocate them to some keys from the keypad (1,2,3).
+
+1) in the config.qmk.fm we select the jj50 and load default.
+2) Select the MO 7 and click on '1' of the keypad
+3) Select the MO 4 and click on '2' of the keypad
+4) Select the MO 5 and click on '3' of the keypad
+
+When flashed you can test the switches after removal en reinserting the keyboard. Take into account the MO keys are mapped to the keypad.
+To test the keyboard use the keyboard tester of config.qmk.fm and compare it with the layout. It is simpler you print the layout in one browser and open the tester in another browser.
+One by one you short the switch to see the correct key lights up.
+
+Note:
+* THIS ONLY FOR TESTING THE KEYBOARD TO SEND IT BACK IN CASE OF PROBLEMS !!! *
+You need to reflash it afterwards with the default jj50 or your custom firmware.
+
+#### LEDs
+
+The leds underneat will turn on when flashed.
+
+In bootloader mode all leds flashes. So you can test them one-by-one.
+The leds underneat are turned off in bootloader mode.
+
 
 References & parts
 ------------------
