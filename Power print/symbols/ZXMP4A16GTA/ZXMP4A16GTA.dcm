@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ZXMP4A16GTA
+D  Low Input Capacitance  Low On-Resistance  Fast Switching Speed  Lead-Free Finish; RoHS Compliant (Notes 1 & 2)  Halogen and Antimony Free. Green Device (Note 3)  For automotive applications requiring specific change control (i.e. parts qualified to AEC-Q100/101/104/200, PPAP capable, and manufactured in IATF 16949 certified facilities), please contact us or your local Diodes representative. https://www.diodes.com/quality/product-definitions/
+K
+F https://www.diodes.com//assets/Datasheets/ZXMP4A16G.pdf
+$ENDCMP
+#
+#End Doc Library
