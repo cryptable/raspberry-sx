@@ -6174,6 +6174,16 @@
 		)
 		(uuid "8b607e82-306e-47aa-a39a-fd07a66fb012")
 	)
+	(text "Power measurement"
+		(exclude_from_sim no)
+		(at 26.67 111.252 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "93ecc4ee-8161-4084-aacb-863b1cba09a6")
+	)
 	(text "Buck Converter 12V -> 5V"
 		(exclude_from_sim no)
 		(at 124.46 100.33 0)
