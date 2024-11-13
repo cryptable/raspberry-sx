@@ -2975,7 +2975,7 @@
 		)
 		(uuid "8b607e82-306e-47aa-a39a-fd07a66fb012")
 	)
-	(text "Buck Converter 9V -> 5V"
+	(text "Buck Converter 12V -> 5V"
 		(exclude_from_sim no)
 		(at 20.32 19.05 0)
 		(effects
@@ -4055,7 +4055,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "10k"
 			(at 123.19 99.0599 0)
 			(effects
 				(font
