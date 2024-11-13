@@ -1,0 +1,25 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model ZXMP4A16GTA
+#/265745/1526994/2.50/4/2/MOSFET (P-Channel)
+DEF ZXMP4A16GTA Q 0 30 Y Y 1 F N
+F0 "Q" 850 300 50 H V L CNN
+F1 "ZXMP4A16GTA" 850 200 50 H V L CNN
+F2 "SOT230P700X170-4N" 850 100 50 H I L CNN
+F3 "https://www.diodes.com//assets/Datasheets/ZXMP4A16G.pdf" 850 0 50 H I L CNN
+F4 " Low Input Capacitance  Low On-Resistance  Fast Switching Speed  Lead-Free Finish; RoHS Compliant (Notes 1 & 2)  Halogen and Antimony Free. Green Device (Note 3)  For automotive applications requiring specific change control (i.e. parts qualified to AEC-Q100/101/104/200, PPAP capable, and manufactured in IATF 16949 certified facilities), please contact us or your local Diodes representative. https://www.diodes.com/quality/product-definitions/" 850 -100 50 H I L CNN "Description"
+F5 "1.7" 850 -200 50 H I L CNN "Height"
+F6 "522-ZXMP4A16GTA" 850 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/Diodes-Incorporated/ZXMP4A16GTA?qs=z1586jurcfwE8l1adMkLeg%3D%3D" 850 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "Diodes Incorporated" 850 -500 50 H I L CNN "Manufacturer_Name"
+F9 "ZXMP4A16GTA" 850 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X G 1 0 0 200 R 50 50 0 0 P
+X D_1 2 0 -100 200 R 50 50 0 0 P
+X S 3 0 -200 200 R 50 50 0 0 P
+X D_2 4 1000 0 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 800 100 800 -300 200 -300 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

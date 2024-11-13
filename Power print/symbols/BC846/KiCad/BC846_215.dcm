@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BC846,215
+D NXP BC846,215 NPN Bipolar Transistor, 0.1 A, 65 V, 3-Pin TO-236AB
+K
+F https://assets.nexperia.com/documents/data-sheet/BC846X_SER.pdf
+$ENDCMP
+#
+#End Doc Library

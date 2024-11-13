@@ -1,0 +1,23 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model PCS2512DR1000ET
+#/5360854/1526994/2.50/2/3/Resistor
+DEF PCS2512DR1000ET R 0 30 Y Y 1 F N
+F0 "R" 550 250 50 H V L CNN
+F1 "PCS2512DR1000ET" 550 150 50 H V L CNN
+F2 "RESC6430X66N" 550 50 50 H I L CNN
+F3 "https://ms.componentsearchengine.com/Datasheets/2/PCS2512DR1000ET.pdf" 550 -50 50 H I L CNN
+F4 "OHMITE - PCS2512DR1000ET - RES, 0R1, 2W, 2512, METAL ALLOY" 550 -150 50 H I L CNN "Description"
+F5 "0.664" 550 -250 50 H I L CNN "Height"
+F6 "Ohmite" 550 -350 50 H I L CNN "Manufacturer_Name"
+F7 "PCS2512DR1000ET" 550 -450 50 H I L CNN "Manufacturer_Part_Number"
+F8 "" 550 -550 50 H I L CNN "Arrow Part Number"
+F9 "" 550 -650 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X ~ 1 0 0 200 R 50 50 0 0 P
+X ~ 2 700 0 200 L 50 50 0 0 P
+P 5 0 1 6 200 50 500 50 500 -50 200 -50 200 50 N
+ENDDRAW
+ENDDEF
+#
+#End Library
