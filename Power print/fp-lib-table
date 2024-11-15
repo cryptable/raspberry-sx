@@ -1,4 +1,10 @@
 (fp_lib_table
   (version 7)
   (lib (name "PCS2512DR1000ET")(type "KiCad")(uri "${KIPRJMOD}/symbols/PCS2512DR1000ET.pretty")(options "")(descr ""))
+  (lib (name "PCBLIB_IND-SMD_L7.2-W6.6_GPSR07X0_2024-11-15")(type "EasyEDA / JLCEDA Std")(uri "${KIPRJMOD}/symbols/spoel/PCBLIB_IND-SMD_L7.2-W6.6_GPSR07X0_2024-11-15.json")(options "")(descr ""))
+  (lib (name "PCBLIB_USB-SMD_TYPE-C16PIN-1_2024-11-15")(type "EasyEDA / JLCEDA Std")(uri "${KIPRJMOD}/symbols/USB-C/PCBLIB_USB-SMD_TYPE-C16PIN-1_2024-11-15.json")(options "")(descr ""))
+  (lib (name "PCBLIB_CONN-TH_P5.00_KF301-5.0-2P_2024-11-15")(type "EasyEDA / JLCEDA Std")(uri "${KIPRJMOD}/symbols/Output/PCBLIB_CONN-TH_P5.00_KF301-5.0-2P_2024-11-15.json")(options "")(descr ""))
+  (lib (name "PCBLIB_QFN-16_L4.0-W4.0-P0.65-TL-EP2.2_2024-11-15")(type "EasyEDA / JLCEDA Std")(uri "${KIPRJMOD}/symbols/INA3221AIRGVR/PCBLIB_QFN-16_L4.0-W4.0-P0.65-TL-EP2.2_2024-11-15.json")(options "")(descr ""))
+  (lib (name "PCBLIB_SOT-5X3-6_W1.6-L1.2-P0.50-LS1.6-BL_2024-11-15")(type "EasyEDA / JLCEDA Std")(uri "${KIPRJMOD}/symbols/TPS566247DRLR/PCBLIB_SOT-5X3-6_W1.6-L1.2-P0.50-LS1.6-BL_2024-11-15.json")(options "")(descr ""))
+  (lib (name "PCBLIB_ESSOP-10_L4.9-W3.9-P1.0-LS6.0-TL-EP_2024-11-15")(type "EasyEDA / JLCEDA Std")(uri "${KIPRJMOD}/symbols/CH224K/PCBLIB_ESSOP-10_L4.9-W3.9-P1.0-LS6.0-TL-EP_2024-11-15.json")(options "")(descr ""))
 )

@@ -1,0 +1,43 @@
+{
+  "head": {
+    "docType": "2",
+    "editorVersion": "6.5.46",
+    "c_para": {
+      "pre": "L?",
+      "name": "CYA0630-2.2UH",
+      "package": "IND-SMD_L7.2-W6.6_GPSR07X0",
+      "Supplier": "LCSC",
+      "Supplier Part": "C5189746",
+      "Manufacturer": "SHOU HAN(首韩)",
+      "Manufacturer Part": "CYA0630-2.2UH",
+      "nameAlias": "Value",
+      "Value": "2.2uH",
+      "JLCPCB Part Class": "Extended Part",
+      "Contributor": "lcsc"
+    },
+    "x": 400,
+    "y": 300,
+    "puuid": "ebbbb17eba5a414f8bd83c157683b84c",
+    "uuid": "4874e0e93e5b4421b4833649879449d1",
+    "importFlag": 0,
+    "c_spiceCmd": null,
+    "hasIdFlag": true,
+    "utime": 1705560548
+  },
+  "canvas": "CA~1000~1000~#FFFFFF~yes~#CCCCCC~10~1000~1000~line~5~pixel~1~400~300",
+  "shape": [
+    "P~show~0~2~420~300~0~gge9~0^^420~300^^M 420 300 h -4~#800^^0~412~300~0~2~end~~~#800^^0~421~296~0~2~start~~~#800^^0~419~300^^0~M 416 297 L 413 300 L 416 303",
+    "P~show~0~1~380~300~180~gge10~0^^380~300^^M 380 300 h 4~#800^^0~388~300~0~1~start~~~#800^^0~379~296~0~1~end~~~#800^^0~381~300^^0~M 384 303 L 387 300 L 384 297",
+    "A~M 384 299.98 A 4 4 0 1 1 392 300.02~~#880000~1~0~none~gge12~0",
+    "A~M 392 299.98 A 4 4 0 1 1 400 300.02~~#880000~1~0~none~gge18~0",
+    "A~M 408 299.98 A 4 4 0 1 1 416 300.02~~#880000~1~0~none~gge20~0",
+    "A~M 400 299.98 A 4 4 0 1 1 408 300.02~~#880000~1~0~none~gge21~0"
+  ],
+  "BBox": {
+    "x": 379,
+    "y": 296,
+    "width": 42,
+    "height": 5
+  },
+  "colors": {}
+}
