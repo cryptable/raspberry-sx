@@ -7,4 +7,5 @@
   (lib (name "PCBLIB_QFN-16_L4.0-W4.0-P0.65-TL-EP2.2_2024-11-15")(type "EasyEDA / JLCEDA Std")(uri "${KIPRJMOD}/symbols/INA3221AIRGVR/PCBLIB_QFN-16_L4.0-W4.0-P0.65-TL-EP2.2_2024-11-15.json")(options "")(descr ""))
   (lib (name "PCBLIB_SOT-5X3-6_W1.6-L1.2-P0.50-LS1.6-BL_2024-11-15")(type "EasyEDA / JLCEDA Std")(uri "${KIPRJMOD}/symbols/TPS566247DRLR/PCBLIB_SOT-5X3-6_W1.6-L1.2-P0.50-LS1.6-BL_2024-11-15.json")(options "")(descr ""))
   (lib (name "PCBLIB_ESSOP-10_L4.9-W3.9-P1.0-LS6.0-TL-EP_2024-11-15")(type "EasyEDA / JLCEDA Std")(uri "${KIPRJMOD}/symbols/CH224K/PCBLIB_ESSOP-10_L4.9-W3.9-P1.0-LS6.0-TL-EP_2024-11-15.json")(options "")(descr ""))
+  (lib (name "MCU_RaspberryPi_and_Boards")(type "KiCad")(uri "${KIPRJMOD}/symbols/RP-Pico Libraries/MCU_RaspberryPi_and_Boards.pretty")(options "")(descr ""))
 )

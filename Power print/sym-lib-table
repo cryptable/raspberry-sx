@@ -3,5 +3,5 @@
   (lib (name "wch_mcu_peripheral")(type "KiCad")(uri "${KIPRJMOD}/symbols/wch_mcu_peripheral.kicad_sym")(options "")(descr ""))
   (lib (name "INA3221AIRGVR")(type "KiCad")(uri "${KIPRJMOD}/symbols/INA3221AIRGVR/INA3221AIRGVR.kicad_sym")(options "")(descr ""))
   (lib (name "TPS566247DRLR")(type "KiCad")(uri "${KIPRJMOD}/symbols/TPS566247DRLR/TPS566247DRLR.kicad_sym")(options "")(descr ""))
-  (lib (name "KDV12DR100ET")(type "KiCad")(uri "${KIPRJMOD}/symbols/KDV12DR100ET/KDV12DR100ET.kicad_sym")(options "")(descr ""))
+  (lib (name "MCU_RaspberryPi_and_Boards")(type "KiCad")(uri "${KIPRJMOD}/symbols/RP-Pico Libraries/MCU_RaspberryPi_and_Boards.kicad_sym")(options "")(descr ""))
 )
