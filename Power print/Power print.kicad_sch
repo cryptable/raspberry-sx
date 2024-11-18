@@ -4767,6 +4767,16 @@
 	)
 	(wire
 		(pts
+			(xy 250.19 53.34) (xy 257.81 53.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3949fbff-57ae-4cde-99ff-62814022d64f")
+	)
+	(wire
+		(pts
 			(xy 41.91 146.05) (xy 38.1 146.05)
 		)
 		(stroke
@@ -5047,16 +5057,6 @@
 	)
 	(wire
 		(pts
-			(xy 250.19 53.34) (xy 255.27 53.34)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "696f4c1a-4562-47e8-9765-96916aa0a411")
-	)
-	(wire
-		(pts
 			(xy 194.31 38.1) (xy 194.31 46.99)
 		)
 		(stroke
@@ -5284,6 +5284,16 @@
 			(type default)
 		)
 		(uuid "84497f01-3db9-428c-bb20-ae15f38e0ab2")
+	)
+	(wire
+		(pts
+			(xy 250.19 50.8) (xy 257.81 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "87f91847-595d-43f9-abde-40f8c36fdfba")
 	)
 	(wire
 		(pts
@@ -5594,16 +5604,6 @@
 			(type default)
 		)
 		(uuid "ace7f32d-780e-4362-901a-14d94f8aae4f")
-	)
-	(wire
-		(pts
-			(xy 248.92 50.8) (xy 255.27 50.8)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ad10cbe5-225b-4911-b7f3-e1451a66d5b1")
 	)
 	(wire
 		(pts
@@ -10080,7 +10080,7 @@
 	)
 	(symbol
 		(lib_id "power:+5V")
-		(at 248.92 50.8 0)
+		(at 250.19 50.8 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10089,7 +10089,7 @@
 		(fields_autoplaced yes)
 		(uuid "a906a322-ae24-401f-b3e5-5c273f160793")
 		(property "Reference" "#PWR017"
-			(at 248.92 54.61 0)
+			(at 250.19 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10098,7 +10098,7 @@
 			)
 		)
 		(property "Value" "+5V"
-			(at 248.92 45.72 0)
+			(at 250.19 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10106,7 +10106,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 248.92 50.8 0)
+			(at 250.19 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10115,7 +10115,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 248.92 50.8 0)
+			(at 250.19 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10124,7 +10124,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 248.92 50.8 0)
+			(at 250.19 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11792,16 +11792,16 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x02_Socket")
-		(at 260.35 50.8 0)
+		(at 262.89 53.34 0)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "e96481ee-d312-4caf-8fbd-8554e8d47fb0")
 		(property "Reference" "J3"
-			(at 261.62 50.7999 0)
+			(at 264.16 53.3401 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11810,7 +11810,7 @@
 			)
 		)
 		(property "Value" "Vout_Connector"
-			(at 261.62 53.3399 0)
+			(at 264.16 50.8001 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11819,7 +11819,7 @@
 			)
 		)
 		(property "Footprint" "PCBLIB_CONN-TH_P5.00_KF301-5.0-2P_2024-11-15:CONN-TH_P5.00_KF301-5.0-2P"
-			(at 260.35 50.8 0)
+			(at 262.89 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11828,7 +11828,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 260.35 50.8 0)
+			(at 262.89 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11837,7 +11837,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated"
-			(at 260.35 50.8 0)
+			(at 262.89 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11846,7 +11846,7 @@
 			)
 		)
 		(property "Sim.Type" ""
-			(at 260.35 50.8 0)
+			(at 262.89 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11855,7 +11855,7 @@
 			)
 		)
 		(property "LCSC" "C474881"
-			(at 260.35 50.8 0)
+			(at 262.89 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11864,7 +11864,7 @@
 			)
 		)
 		(property "Sim.Params" ""
-			(at 260.35 50.8 0)
+			(at 262.89 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
