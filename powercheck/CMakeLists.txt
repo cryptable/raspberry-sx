@@ -4,7 +4,7 @@ cmake_minimum_required(VERSION 3.12)
 include(pimoroni_pico_import.cmake)
 include(pico_sdk_import.cmake)
 
-project(pico_examples C CXX ASM)
+project(powermgmnt C CXX ASM)
 set(CMAKE_C_STANDARD 11)
 set(CMAKE_CXX_STANDARD 17)
 
@@ -35,7 +35,10 @@ include(libraries/hershey_fonts/hershey_fonts)
 include(libraries/pico_graphics/pico_graphics)
 
 # pull in common dependencies
-target_link_libraries(powermgmnt pico_stdlib pico_graphics st7735 hardware_spi)
+target_link_libraries(powermgmnt pico_stdlib pico_graphics st7735 hardware_spi hardware_i2c)
+
+# STDIO thrugh the USB
+pico_enable_stdio_usb(powermgmnt 1)
 
 # create map/bin/hex file etc.
 pico_add_extra_outputs(powermgmnt)

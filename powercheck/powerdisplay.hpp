@@ -19,7 +19,7 @@ public:
     ~Powerdisplay(void);
 
     void countdown(char *p_seconds);
-
+    void powerdata(float fVusb, float fAusb, float fVout, float fAout);
 };
 
 #endif // POWERDISPLAY
