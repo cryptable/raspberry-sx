@@ -10782,7 +10782,7 @@
 				)
 			)
 		)
-		(property "Value" "0.1 1%"
+		(property "Value" "0.02 1%"
 			(at 264.16 106.68 90)
 			(effects
 				(font
